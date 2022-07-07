@@ -25,6 +25,6 @@ jobs:
       # Import the target action: `release` branch in vn7n24fzkq/github-profile-summary-cards repository
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
