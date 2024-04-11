@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/silver-ymz/silver-ymz/master/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
